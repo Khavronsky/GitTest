@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
-Будет удалено .gitignore
-Будет удалено .gradle/
-Будет удалено .idea/workspace.xml
-Будет удалено build/
+.gitignore
+.gradle/
+
+.idea/
+build/
 Будет удалено local.properties
