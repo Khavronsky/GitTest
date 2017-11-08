@@ -1,6 +1,7 @@
 package com.khavronsky.gittest;
 
 
-public class Class_2 {
+public class Class_3 {
+    //content
 
 }
